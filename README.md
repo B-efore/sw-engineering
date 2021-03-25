@@ -23,12 +23,12 @@
     cell | cell
     cell | cell
 
-*Result :*
+  *Result :*
 
- Header 1 | Header 2
- -------- | --------
- cell | cell
- cell | cell
+   Header 1 | Header 2
+   -------- | --------
+   cell | cell
+   cell | cell
  
  <br>
 
