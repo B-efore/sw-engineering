@@ -9,6 +9,8 @@
 ## Tables
 **How to** : Use `|` to divide the columns and `-` for the header of each column.
 
+<br>
+
     | Header 1 | Header 2 |
     | -------- | -------- |
     | cell | cell |
@@ -23,10 +25,26 @@
 
 *Result :*
 
- Header 1 | Header 2 
- -------- | -------- 
- cell | cell 
- cell | cell 
+ Header 1 | Header 2
+ -------- | --------
+ cell | cell
+ cell | cell
+ 
+ <br>
+
+**Note** : Use `:` to the left, right, or both sides of the `-` to align.
+
+<br>
+
+    | Header 1 | Header 2 | Header 3 |
+    | :-- | :--: | --: |
+    |left | middle | right |
+    
+*Result :*
+
+ | Header 1 | Header 2 | Header 3 |
+ | :-- | :--: | --: |
+ |left | middle | right |
 
 
 ## Task list items
