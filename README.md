@@ -7,7 +7,7 @@
 ---
 
 ## Tables
-**How to** : Use `|` to divide the columns and `-` for the header of each column.
+- **How to** : Use `|` to divide the columns and `-` for the header of each column.
 
 <br>
 
@@ -32,7 +32,7 @@
  
  <br>
 
-**Note** : Use `:` to the left, right, or both sides of the `-` to align.
+- **Note** : Use `:` to the left, right, or both sides of the `-` to align.
 
 <br>
 
