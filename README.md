@@ -35,12 +35,12 @@
         | Header 1 | Header 2 | Header 3 |
         | :-- | :--: | --: |
         |left | middle | right |
-        
-*Result :*
 
- | Header 1 | Header 2 | Header 3 |
- | :-- | :--: | --: |
- |left | middle | right |
+    *Result :*
+
+     | Header 1 | Header 2 | Header 3 |
+     | :-- | :--: | --: |
+     |left | middle | right |
 
 
 ## Task list items
