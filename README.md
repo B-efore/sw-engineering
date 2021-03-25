@@ -9,26 +9,25 @@
 ## Tables
 - **How to** : Use `|` to divide the columns and `-` for the header of each column.
 
-<br>
 
-    | Header 1 | Header 2 |
-    | -------- | -------- |
-    | cell | cell |
-    | cell | cell |
-    
-    or
+        | Header 1 | Header 2 |
+        | -------- | -------- |
+        | cell | cell |
+        | cell | cell |
+        
+        or
+        
+        Header 1 | Header 2
+        -------- | --------
+        cell | cell
+        cell | cell
+
+    *Result :*
     
     Header 1 | Header 2
     -------- | --------
     cell | cell
     cell | cell
-
-  *Result :*
-
-   Header 1 | Header 2
-   -------- | --------
-   cell | cell
-   cell | cell
  
  <br>
 
