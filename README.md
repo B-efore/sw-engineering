@@ -208,16 +208,16 @@
 
 
           ljw010512@naver.com
+          ljw010512@naver.com.
           ljw010512naver.com
           ljw010512@nav+er.com
-          ljw010512@naver.com.
 
      *Result :*  
     
      ljw010512@naver.com
+     ljw010512@naver.com.
      ljw010512naver.com
      ljw010512@nav+er.com
-     ljw010512@naver.com.
     
     
 ## Disallowed Raw HTML
