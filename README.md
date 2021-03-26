@@ -94,6 +94,51 @@
     | cell | cell |
     >**end**
 
+<br>
+
+- **Plus 4** : The header row **must match** the delimiter row in the number of cells.
+
+        | Header 1 | Header 2 |
+        | -------- |
+        | cell     |
+        
+        or
+        
+        | Header 1 |
+        | -------- | -------- |
+        | cell     |          |
+        
+    *Result :*
+   
+    | Header 1 | Header 2 |
+    | -------- |
+    | cell     |
+        
+    or
+        
+    | Header 1 |
+    | -------- | -------- |
+    | cell     |          |
+    
+    *This is **not recognized** as a table.*
+    
+<br>
+
+- **Plus 5** : If the number of cells is **fewer** than the number of header, *an empty cells are inserted*, and if it is **greater**, *the excess is ignored*.
+
+        | Header 1 | Header 2 |
+        | -------- | -------- |
+        | cell     |
+        | cell     | cell     | ignored |
+    
+   *Result :*
+   
+   | Header 1 | Header 2 |
+   | -------- | -------- |
+   | cell     |
+   | cell     | cell     | ignored |
+
+
 ## Task list items
 
 ## Strikethrough
