@@ -190,9 +190,9 @@
         www.naver.com
         
     
-    *Result :*  
-    http://myclass.ssu.ac.kr/  
-    www.naver.com  
+     *Result :*  
+     http://myclass.ssu.ac.kr/  
+     www.naver.com  
 
 <br>
 
