@@ -239,5 +239,5 @@ The following HTML tags will be filtered
 - `<script>`
 - `<plaintext>`
 
-Replace `<` with the entity `&lt`;.
+Replace `<` with the entity `&lt`;.  
 All other HTML tags are left untouched.
