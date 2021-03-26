@@ -30,7 +30,7 @@
  
  <br>
 
-- **Note** : Use `:` to the left, right, or both sides of the `-` to align.
+- **Note 1** : Use `:` to the left, right, or both sides of the `-` to align.
 
         | Header 1 | Header 2 | Header 3 |
         | :-- | :--: | --: |
@@ -41,7 +41,10 @@
      | Header 1 | Header 2 | Header 3 |
      | :-- | :--: | --: |
      |left | middle | right |
+     
+ <br>
 
+- **Note 2** : 
 
 ## Task list items
 
