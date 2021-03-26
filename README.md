@@ -56,6 +56,43 @@
     | Header 1 |
     | -------- |
     | \| pipe  |
+    
+ <br>
+ 
+- **Plus 3** : The table can be finished with **the beginning of the first empty line** or **another block-level structures**.
+
+        | Header 1 | Header 2 |
+        | -------- | ------ |
+        | cell | cell |
+        | cell | cell |
+        
+        **end**
+        
+        and
+        
+        | Header 1 | Header 2 |
+        | -------- | ------ |
+        | cell | cell |
+        | cell | cell |
+        >**end**
+
+    *Result :*
+    
+    
+    | Header 1 | Header 2 |
+    | -------- | ------ |
+    | cell | cell |
+    | cell | cell |
+        
+    **end**
+        
+    and
+        
+    | Header 1 | Header 2 |
+    | -------- | ------ |
+    | cell | cell |
+    | cell | cell |
+    >**end**
 
 ## Task list items
 
