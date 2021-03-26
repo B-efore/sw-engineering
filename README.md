@@ -216,8 +216,9 @@
     
      ljw010512@naver.com  
      ljw010512@naver.com.  
-     ljw010512naver.com (x)
+     ljw010512naver.com (x)  
      ljw010512@nav+er.com (x)
-    
-    
+
+---
+
 ## Disallowed Raw HTML
