@@ -214,10 +214,10 @@
 
      *Result :*  
     
-     ljw010512@naver.com
-     ljw010512@naver.com.
-     ljw010512naver.com
-     ljw010512@nav+er.com
+     ljw010512@naver.com  
+     ljw010512@naver.com.  
+     ljw010512naver.com  
+     ljw010512@nav+er.com  
     
     
 ## Disallowed Raw HTML
