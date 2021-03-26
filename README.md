@@ -137,7 +137,8 @@
    | -------- | -------- |
    | cell     |
    | cell     | cell     | ignored |
-
+   
+---
 
 ## Task list items
 
