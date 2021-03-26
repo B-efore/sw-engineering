@@ -8,29 +8,30 @@
 
 ## Tables
 - **How to** : Use `|` to divide the columns and `-` for the header of each column.
+- **Note** : Don't need to match length and trailing pipes may be inconsisetent.
 
         | Header 1 | Header 2 |
-        | -------- | -------- |
+        | -------- | ------ |
         | cell | cell |
         | cell | cell |
         
         or
         
         Header 1 | Header 2
-        -------- | --------
+        -------- | ------
         cell | cell
         cell | cell
 
     *Result :*
     
     Header 1 | Header 2
-    -------- | --------
+    -------- | ------
     cell | cell
     cell | cell
  
  <br>
 
-- **Note 1** : Use `:` to the left, right, or both sides of the `-` to align.
+- **Plus 1** : Use `:` to the left, right, or both sides of the `-` to align.
 
         | Header 1 | Header 2 | Header 3 |
         | :-- | :--: | --: |
@@ -44,7 +45,17 @@
      
  <br>
 
-- **Note 2** : 
+- **Plus 2** : Use `\` to include a pipe in the cell.
+
+        | Header 1 |
+        | -------- |
+        | \| pipe  |
+        
+    *Result :*
+    
+    | Header 1 |
+    | -------- |
+    | \| pipe  |
 
 ## Task list items
 
