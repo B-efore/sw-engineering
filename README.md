@@ -226,3 +226,18 @@
 ---
 
 ## Disallowed Raw HTML
+
+The following HTML tags will be filtered
+
+- `<title>`
+- `<textarea>`
+- `<style>`
+- `<xmp>`
+- `<iframe>`
+- `<noembed>`
+- `<noframes>`
+- `<script>`
+- `<plaintext>`
+
+Replace `<` with the entity `&lt`;.
+All other HTML tags are left untouched.
