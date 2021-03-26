@@ -159,6 +159,8 @@
         - [ ] 2
    - [ ] Third
 
+---
+
 ## Strikethrough
 
 - **How to** : Wrap the text with `~~`.
@@ -177,6 +179,8 @@
     I want to draw a line on ~~here
 
     and here~~.
+ 
+---
  
 ## Autolinks
 
