@@ -204,9 +204,9 @@
 
           ljw010512@naver.com
 
-    *Result :*  
-
-    ljw010512@naver.com
+     *Result :*  
+    
+     ljw010512@naver.com
     
     
 ## Disallowed Raw HTML
