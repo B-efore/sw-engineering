@@ -161,6 +161,23 @@
 
 ## Strikethrough
 
+- **How to** : Wrap the text with `~~`.
+- **Note** : It *cannot be used continuously with a new paragraph.*
+
+        I want to draw a line on ~~this~~.
+        
+        I want to draw a line on ~~here
+        
+        and here~~.
+        
+    *Result :*
+    
+    I want to draw a line on ~~this~~.
+    
+    I want to draw a line on ~~here
+
+    and here~~.
+ 
 ## Autolinks
 
 ## Disallowed Raw HTML
