@@ -193,7 +193,6 @@
     *Result :*  
     http://myclass.ssu.ac.kr/  
     www.naver.com  
-    ljw010512@naver.com
 
 <br>
 
@@ -203,9 +202,11 @@
     - Include characters (Alphanumeric, or `-` or `_`, seperated by `.`) and there must be at least one `.` and last character must not be `-` or `_`.
 
 
-        ljw010512@naver.com
+          ljw010512@naver.com
 
     *Result :*  
 
     ljw010512@naver.com
+    
+    
 ## Disallowed Raw HTML
