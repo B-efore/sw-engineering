@@ -196,8 +196,8 @@
         
     
     *Result :*  
-    http://myclass.ssu.ac.kr/  
-    www.naver.com
-    ljw010512@naver.com
+    http://myclass.ssu.ac<.kr/  
+    www.naver.<com
+    ljw010512@nav<er.com
 
 ## Disallowed Raw HTML
