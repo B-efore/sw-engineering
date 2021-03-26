@@ -142,6 +142,23 @@
 
 ## Task list items
 
+ - **How to** : Form is `- [ ] list` and checkbox is `- [x] list`.
+ - **Note** : Don't forget **a whitespace** between the list and brackets.
+ 
+        - [x] first
+        - [ ] second
+             - [x] 1
+             - [ ] 2
+        - [ ] Third
+
+    *Result :*
+    
+   - [x] first
+   - [ ] second
+        - [x] 1
+        - [ ] 2
+   - [ ] Third
+
 ## Strikethrough
 
 ## Autolinks
