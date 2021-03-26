@@ -190,7 +190,8 @@
         www.naver.com
         
     
-     *Result :*  
+     *Result :*
+     
      http://myclass.ssu.ac.kr/  
      www.naver.com  
 
@@ -200,13 +201,23 @@
     - Include characters (Alphanumeric, or `.`, `-`, `_`, or `+`).
     - An `@` symbol.
     - Include characters (Alphanumeric, or `-` or `_`, seperated by `.`) and there must be at least one `.` and last character must not be `-` or `_`.
+    
+- **Note 1** : `+` can occur **before** the `@`, but not after.
+- **Note 2** : `.`, `-`, `_` can occur on both sides of the `@`.
+- **Note 3** : `.` at the end of the email address is *not considered part of the address*.
 
 
           ljw010512@naver.com
+          ljw010512naver.com
+          ljw010512@nav+er.com
+          ljw010512@naver.com.
 
      *Result :*  
     
      ljw010512@naver.com
+     ljw010512naver.com
+     ljw010512@nav+er.com
+     ljw010512@naver.com.
     
     
 ## Disallowed Raw HTML
