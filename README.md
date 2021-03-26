@@ -182,22 +182,30 @@
 
 - **How to 1** : URL will be automatically converted into a link. When the text **http://** or **https://** is found followed by **a valid domain**.
 - **How to 2** : WWW link will be automatically converted into a link. When the text **www** is found followed by **a valid domain**.
-- **How to 3** : Email link will be automatically converted into a link.
-    - Include characters (Alphanumeric, or `.`, `-`, `_`, or `+`).
-    - An `@` symbol.
-    - Include characters (Alphanumeric, or `-` or `_`, seperated by `.`) and there must be at least one `.` and last character must not be `-` or `_`.
 - **Note 1** : **Trailing punctuation** will *not be considered part of the autolink*.
 - **Note 2** : Using `<` means the **end of the autolink**.
 
 
         http://myclass.ssu.ac.kr/
         www.naver.com
-        ljw010512@naver.com
         
     
     *Result :*  
-    http://myclass.ssu.ac<.kr/  
-    www.naver.<com
-    ljw010512@nav<er.com
+    http://myclass.ssu.ac.kr/  
+    www.naver.com  
+    ljw010512@naver.com
 
+<br>
+
+- **How to 3** : Email link will be automatically converted into a link.
+    - Include characters (Alphanumeric, or `.`, `-`, `_`, or `+`).
+    - An `@` symbol.
+    - Include characters (Alphanumeric, or `-` or `_`, seperated by `.`) and there must be at least one `.` and last character must not be `-` or `_`.
+
+
+        ljw010512@naver.com
+
+    *Result :*  
+
+    ljw010512@naver.com
 ## Disallowed Raw HTML
